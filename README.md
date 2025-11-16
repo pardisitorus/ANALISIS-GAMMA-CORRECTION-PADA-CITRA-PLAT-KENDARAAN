@@ -3,6 +3,9 @@
 ## Deskripsi Proyek
 Proyek ini bertujuan untuk menganalisis efek koreksi gamma pada citra plat kendaraan dengan menggunakan berbagai nilai gamma (0.1, 1.5, dan 3.5). Implementasi dilakukan menggunakan Python dengan library PIL, NumPy, dan Matplotlib untuk memproses dan memvisualisasikan hasil koreksi gamma.
 
+## Download Gambar
+Untuk menjalankan kode ini, Anda perlu mendownload gambar plate3.jpg dari repository GitHub. Berikut caranya:
+
 ## Langkah-Langkah Implementasi
 
 ### 1. Import Library yang Diperlukan
